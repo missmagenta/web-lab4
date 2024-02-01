@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: Raleway, sans-serif;
+}
+
+/*html {*/
+/*    background: linear-gradient(90deg, #08000a 0%, #2c0133 100%);*/
+/*}*/
+
+body {
+    background: linear-gradient(90deg, #de9cf0 0%, #de9cf0 100%);
+}
+  

@@ -1,0 +1,22 @@
+#header {
+    height: 20%;
+    font-size: var(--small-font-size);
+    text-transform: uppercase;
+    text-align: center;
+    transition: 0.3s;
+    user-select: none;
+    color: white;
+}
+
+#group {
+    display: var(--hidden);
+    padding-left:5%;
+    padding-top: 5px;
+    width: 10%;
+    float: left;
+}
+
+#name {
+    width: var(--header-name-width);
+    float: right;
+}
